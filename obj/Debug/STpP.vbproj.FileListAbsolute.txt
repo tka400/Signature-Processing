@@ -1,0 +1,34 @@
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\New Folder\obj\Debug\Interop.Excel.dll
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\New Folder\obj\Debug\Interop.FIFOLib.dll
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\New Folder\obj\Debug\Interop.LMSTestLabAutomation.dll
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\New Folder\obj\Debug\STpP.vbproj.ResolveComReference.cache
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\New Folder\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\New Folder\obj\Debug\STpP.Form1.resources
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\New Folder\obj\Debug\STpP.vbproj.GenerateResource.Cache
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\New Folder\bin\Debug\STpP.exe
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\New Folder\bin\Debug\STpP.pdb
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\New Folder\bin\Debug\STpP.xml
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\New Folder\bin\Debug\Interop.Excel.dll
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\New Folder\bin\Debug\Interop.FIFOLib.dll
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\New Folder\bin\Debug\Interop.LMSTestLabAutomation.dll
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\New Folder\obj\Debug\STpP.Resources.resources
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\New Folder\obj\Debug\STpP.exe
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\New Folder\obj\Debug\STpP.xml
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\New Folder\obj\Debug\STpP.pdb
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\STpP\obj\Debug\Interop.Excel.dll
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\STpP\obj\Debug\Interop.FIFOLib.dll
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\STpP\obj\Debug\Interop.LMSTestLabAutomation.dll
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\STpP\obj\Debug\STpP.vbproj.ResolveComReference.cache
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\STpP\obj\Debug\STpP.exe
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\STpP\obj\Debug\STpP.xml
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\STpP\obj\Debug\STpP.pdb
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\STpP\bin\Debug\STpP.exe
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\STpP\bin\Debug\STpP.pdb
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\STpP\bin\Debug\STpP.xml
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\STpP\bin\Debug\Interop.Excel.dll
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\STpP\bin\Debug\Interop.FIFOLib.dll
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\STpP\bin\Debug\Interop.LMSTestLabAutomation.dll
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\STpP\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\STpP\obj\Debug\STpP.Form1.resources
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\STpP\obj\Debug\STpP.Resources.resources
+C:\Documents and Settings\tka4\My Documents\Visual Studio 2008\Projects\STpP\obj\Debug\STpP.vbproj.GenerateResource.Cache
